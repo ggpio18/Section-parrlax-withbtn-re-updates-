@@ -113,3 +113,11 @@ transform: scale(1.5);
 }
 }
 
+.parallax2{
+    background-image: url('https://placehold.co/600x400');
+    background-attachment: fixed;
+    background-repeat: cover;
+    background-repeat: no-repeat;
+}
+
+
