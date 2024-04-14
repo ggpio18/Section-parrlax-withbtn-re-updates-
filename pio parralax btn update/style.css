@@ -136,13 +136,19 @@ transform: scale(1.5);
 .col{
 
     display: grid;
-    place-items: center;
+    grid-template-columns: 100px;
     place-content: center;
+    padding-top: 5rem;
+   
     
 }
 .col2{
     display: grid;
+    grid-template-columns: 1fr;
     place-content: center;
+    width:auto;
+padding: 0px;
+margin: 0px
 }
 
 
